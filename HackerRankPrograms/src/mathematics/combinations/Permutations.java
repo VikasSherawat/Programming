@@ -7,7 +7,7 @@ import java.math.*;
 import java.util.regex.*;
 
 public class Permutations {
-	static List list  = new ArrayList();;
+	static List list  = new ArrayList();
 
 	public Permutations() {
 		super();
